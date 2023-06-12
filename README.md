@@ -42,16 +42,16 @@ Once you have the Todo App running, you can start managing your tasks using the 
 8. To delete a task, click on the "Delete" button next to the task.
 9. Use the filter options to view only completed or incomplete tasks.
 
-###Contributing
+### Contributing
 Contributions to the Todo App are welcome and encouraged. Here's how you can contribute:
 
-###Fork the repository.
+### Fork the repository.
 1. Create a new branch: git checkout -b my-new-branch
 2. Make your changes and commit them: git commit -am 'Add some feature'
 3. Push the changes to your forked repository: git push origin my-new-branch
 4. Submit a pull request detailing your changes.
 
-###License
+### License
 The Todo App is open-source software licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
 
